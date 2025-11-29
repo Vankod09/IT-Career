@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanko\\Downloads\\Codes\\IT Career\\M01-IntroToPrograming\\S03-ConditionalStatements\\P08-ThreeEqualNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A794AFB1-A439-4B5E-9F1A-4972F11B0C2C}|P08-ThreeEqualNumbers\\P08-ThreeEqualNumbers.csproj|c:\\users\\vanko\\downloads\\codes\\it career\\m01-introtoprograming\\s03-conditionalstatements\\p08-threeequalnumbers\\p08-threeequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A794AFB1-A439-4B5E-9F1A-4972F11B0C2C}|P08-ThreeEqualNumbers\\P08-ThreeEqualNumbers.csproj|solutionrelative:p08-threeequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vanko\\Downloads\\Codes\\IT Career\\M01-IntroToPrograming\\S03-ConditionalStatements\\P08-ThreeEqualNumbers\\P08-ThreeEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "P08-ThreeEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Vanko\\Downloads\\Codes\\IT Career\\M01-IntroToPrograming\\S03-ConditionalStatements\\P08-ThreeEqualNumbers\\P08-ThreeEqualNumbers\\Program.cs",
+              "RelativeToolTip": "P08-ThreeEqualNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:30:27.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

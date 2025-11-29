@@ -1,0 +1,15 @@
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\bin\Debug\net10.0\P11-SumOfSeconds.exe
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\bin\Debug\net10.0\P11-SumOfSeconds.deps.json
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\bin\Debug\net10.0\P11-SumOfSeconds.runtimeconfig.json
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\bin\Debug\net10.0\P11-SumOfSeconds.dll
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\bin\Debug\net10.0\P11-SumOfSeconds.pdb
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.AssemblyInfoInputs.cache
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.AssemblyInfo.cs
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.sourcelink.json
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.dll
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\refint\P11-SumOfSeconds.dll
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.pdb
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\P11-SumOfSeconds.genruntimeconfig.cache
+C:\Users\Vanko\Downloads\Codes\IT Career\M01-IntroToPrograming\S03-ConditionalStatements\P11-SumOfSeconds\P11-SumOfSeconds\obj\Debug\net10.0\ref\P11-SumOfSeconds.dll
