@@ -6,4 +6,9 @@
   <Project Path="P05-MaxNumber/P05-MaxNumber.csproj" />
   <Project Path="P06-MinNumber/P06-MinNumber.csproj" />
   <Project Path="P07-LeftRightSum/P07-LeftRightSum.csproj" />
+  <Project Path="P10-EvenOddSums/P10-EvenOddSums.csproj" Id="7b877bda-f353-4643-9c0d-1f1e0ec0f764" />
+  <Project Path="P11-EqualCouples/P11-EqualCouples.csproj" Id="53936f2c-af4c-492a-96b0-ad0f24ca4cb0" />
+  <Project Path="P12-RectangleOf10X10Stars/P12-RectangleOf10X10Stars.csproj" Id="56c25046-057e-4cd5-95c5-c7e0ab66e9d1" />
+  <Project Path="P13-ChristmasTree/P13-ChristmasTree.csproj" Id="d6b53e88-a4df-4247-9f17-e0ddc9b0e5c1" />
+  <Project Path="P14-NumbersInRange1_100/P14-NumbersInRange1_100.csproj" Id="1f6a12fd-3296-4546-8b47-1215f732fe50" />
 </Solution>
