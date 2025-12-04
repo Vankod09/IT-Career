@@ -11,4 +11,12 @@
   <Project Path="P12-RectangleOf10X10Stars/P12-RectangleOf10X10Stars.csproj" Id="56c25046-057e-4cd5-95c5-c7e0ab66e9d1" />
   <Project Path="P13-ChristmasTree/P13-ChristmasTree.csproj" Id="d6b53e88-a4df-4247-9f17-e0ddc9b0e5c1" />
   <Project Path="P14-NumbersInRange1_100/P14-NumbersInRange1_100.csproj" Id="1f6a12fd-3296-4546-8b47-1215f732fe50" />
+  <Project Path="P15-SumOfTheOthers/P15-SumOfTheOthers.csproj" Id="549f7d7d-2264-4849-a150-7030e72a769c" />
+  <Project Path="P16-SquareFrame/P16-SquareFrame.csproj" Id="b49162aa-8646-477a-964c-ed62c2a50326" />
+  <Project Path="P17-DiamondOfStars/P17-Sunglasses.csproj" Id="b9b78312-1a4b-4585-a71f-978363084ef4" />
+  <Project Path="P18-House/P18-LoopByStep3.csproj" Id="a7bfaaf0-67cb-4bc8-9f07-46e9327c840d" />
+  <Project Path="P19-NumbersFromNTo1/P19-NumbersFromNTo1.csproj" Id="c7584ca4-0f22-4446-a789-1840e3ba316a" />
+  <Project Path="P20-NumbersPowerOf2/P20-NumbersPowerOf2.csproj" Id="e131761c-d385-44bb-8a18-cf0ae4c8bdec" />
+  <Project Path="P21-EvenPowerOf2/P21-EvenPowerOf2.csproj" Id="0c0dfe71-8a31-48ee-8e2a-5cd88006742d" />
+  <Project Path="P22-OrderOf2KPlus1/P22-OrderOf2KPlus1.csproj" Id="ee8a88d0-6f42-41a4-8868-169fff12ee8c" />
 </Solution>
