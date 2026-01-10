@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="P01-FruitShop/P01-FruitShop.csproj" />
+  <Project Path="P02-FootballKit/P02-FootballKit.csproj" />
+  <Project Path="P03-FootballMatch/P03-FootballMatch.csproj" Id="ff4db3c0-34f0-4fa8-af2f-09a7059fe3c6" />
+  <Project Path="P04-Division1/P04-Division1.csproj" Id="50e95f08-3faf-4012-b2c4-e835bb334594" />
+  <Project Path="P05-WinnerNumbers/P05-WinnerNumbers.csproj" Id="ea9db942-6c36-472f-b74c-ea403e9307c6" />
+  <Project Path="P06-MarketingCampaign/P06-MarketingCampaign.csproj" Id="3e95ee25-ee17-4229-a5f5-4adc78a7bf46" />
+  <Project Path="P07-Holiday/P07-Holiday.csproj" Id="13decbfe-a5c7-4f65-a722-672663a1a56b" />
+  <Project Path="P08-Teambuilding/P08-Teambuilding.csproj" Id="e21823ed-7718-4ba6-ba37-848cfec6ce47" />
+  <Project Path="P09-Temperature/P09-Temperature.csproj" Id="cc3ba9b8-247e-4432-9df9-686dffcf1750" />
+  <Project Path="P10-Numbers/P10-Numbers.csproj" Id="0283a513-361d-4872-a326-c184bfb1c06c" />
+</Solution>
