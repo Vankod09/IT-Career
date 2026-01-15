@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="P01-RectangleOfStars/P01-Hello-SoftUni.csproj" />
+  <Project Path="P02-Expression/P02-Expression.csproj" />
+  <Project Path="P03-Nums1To20/P03-Nums1To20.csproj" />
+  <Project Path="P04-TriangleOf55Stars/P04-TriangleOf55Stars.csproj" />
+  <Project Path="P05-RectangleSquare/P05-RectangleSquare.csproj" />
+  <Project Path="P06-SquareOfNStars/P06-SquareOfNStars.csproj" />
+</Solution>
