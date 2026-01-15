@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="P01-SquareArea/P01-SquareArea.csproj" />
+  <Project Path="P02-InchesToCentimeters/P02-InchesToCentimeters.csproj" />
+  <Project Path="P03-Greeting/P03-Greeting.csproj" />
+  <Project Path="P04-ConcatenateData/P04-ConcatenateData.csproj" />
+  <Project Path="P05-ConvertCF/P05-ConvertCF.csproj" />
+  <Project Path="P06-ConvertRadDeg/P06-ConvertRadDeg.csproj" />
+  <Project Path="P07-ConvertUSDBGN/P07-ConvertUSDBGN.csproj" />
+  <Project Path="P08-TrapezoidArea/P08-TrapezoidArea.csproj" />
+  <Project Path="P09-AreaPerimeter/P09-AreaPerimeter.csproj" />
+  <Project Path="P10-RectangleArea/P10-RectangleArea.csproj" />
+  <Project Path="P11-TriangleArea/P11-TriangleArea.csproj" />
+  <Project Path="P12-ConvertMoney/P12-ConvertMoney.csproj" />
+  <Project Path="P13-1000Days/P13-1000Days.csproj" />
+</Solution>
