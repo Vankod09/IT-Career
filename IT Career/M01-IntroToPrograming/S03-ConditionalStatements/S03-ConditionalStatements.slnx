@@ -1,0 +1,27 @@
+<Solution>
+  <Project Path="P01-ExcellentResult/P01-ExcellentResult.csproj" />
+  <Project Path="P02-ExcellentorNot/P02-ExcellentorNot.csproj" />
+  <Project Path="P03-OddOrEVen/P03-OddOrEVen.csproj" />
+  <Project Path="P04-MaxOf2/P04-MaxOf2.csproj" />
+  <Project Path="P05-GuessPassword/P05-GuessPassword.csproj" />
+  <Project Path="P06-SameWords/P06-SameWords.csproj" />
+  <Project Path="P07-Add15ToTime/P07-Add15ToTime.csproj" />
+  <Project Path="P08-ThreeEqualNumbers/P08-ThreeEqualNumbers.csproj" />
+  <Project Path="P09-NumberToWords/P09-NumberToWords.csproj" />
+  <Project Path="P10-BonusPoint/P10-BonusPoint.csproj" />
+  <Project Path="P11-SumOfSeconds/P11-SumOfSeconds.csproj" />
+  <Project Path="P12-UnitConverter/P12-UnitConverter.csproj" />
+  <Project Path="P13-Number100200/P13-Number100200.csproj" />
+  <Project Path="P14-SpeedInfo/P14-SpeedInfo.csproj" />
+  <Project Path="P15-FigureArea/P15-FigureArea.csproj" />
+  <Project Path="P16-NumberToWords100/P16-NumberToWords100.csproj" />
+  <Project Path="P17-PersonalTitles/P17-PersonalTitles.csproj" />
+  <Project Path="P18-SmallShop/P18-SmallShop.csproj" />
+  <Project Path="P19-InsideRectangle/P19-InsideRectangle.csproj" />
+  <Project Path="P20-FruitVegetable/P20-FruitVegetable.csproj" />
+  <Project Path="P21-InvalidNumber/P21-InvalidNumber.csproj" />
+  <Project Path="P22-BorderPoint/P22-BorderPoint.csproj" />
+  <Project Path="P23-DayOfweek/P23-DayOfweek.csproj" />
+  <Project Path="P24-Animalclass/P24-Animalclass.csproj" />
+  <Project Path="P25-Cinema/P25-Cinema.csproj" />
+</Solution>

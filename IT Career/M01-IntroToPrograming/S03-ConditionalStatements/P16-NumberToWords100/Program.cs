@@ -1,0 +1,113 @@
+﻿public class Program
+{
+    public static void Main()
+    {
+        int number = int.Parse(Console.ReadLine());
+
+        switch (number)
+        {
+            case 0: Console.WriteLine("Zero"); break;
+            case 1: Console.WriteLine("One"); break;
+            case 2: Console.WriteLine("Two"); break;
+            case 3: Console.WriteLine("Three"); break;
+            case 4: Console.WriteLine("Four"); break;
+            case 5: Console.WriteLine("Five"); break;
+            case 6: Console.WriteLine("Six"); break;
+            case 7: Console.WriteLine("Seven"); break;
+            case 8: Console.WriteLine("Eight"); break;
+            case 9: Console.WriteLine("Nine"); break;
+            case 10: Console.WriteLine("Ten"); break;
+            case 11: Console.WriteLine("Eleven"); break;
+            case 12: Console.WriteLine("Twelve"); break;
+            case 13: Console.WriteLine("Thirteen"); break;
+            case 14: Console.WriteLine("Fourteen"); break;
+            case 15: Console.WriteLine("Fifteen"); break;
+            case 16: Console.WriteLine("Sixteen"); break;
+            case 17: Console.WriteLine("Seventeen"); break;
+            case 18: Console.WriteLine("Eighteen"); break;
+            case 19: Console.WriteLine("Nineteen"); break;
+            case 20: Console.WriteLine("Twenty"); break;
+            case 21: Console.WriteLine("Twenty One"); break;
+            case 22: Console.WriteLine("Twenty Two"); break;
+            case 23: Console.WriteLine("Twenty Three"); break;
+            case 24: Console.WriteLine("Twenty Four"); break;
+            case 25: Console.WriteLine("Twenty Five"); break;
+            case 26: Console.WriteLine("Twenty Six"); break;
+            case 27: Console.WriteLine("Twenty Seven"); break;
+            case 28: Console.WriteLine("Twenty Eight"); break;
+            case 29: Console.WriteLine("Twenty Nine"); break;
+            case 30: Console.WriteLine("Thirty"); break;
+            case 31: Console.WriteLine("Thirty One"); break;
+            case 32: Console.WriteLine("Thirty Two"); break;
+            case 33: Console.WriteLine("Thirty Three"); break;
+            case 34: Console.WriteLine("Thirty Four"); break;
+            case 35: Console.WriteLine("Thirty Five"); break;
+            case 36: Console.WriteLine("Thirty Six"); break;
+            case 37: Console.WriteLine("Thirty Seven"); break;
+            case 38: Console.WriteLine("Thirty Eight"); break;
+            case 39: Console.WriteLine("Thirty Nine"); break;
+            case 40: Console.WriteLine("Forty"); break;
+            case 41: Console.WriteLine("Forty One"); break;
+            case 42: Console.WriteLine("Forty Two"); break;
+            case 43: Console.WriteLine("Forty Three"); break;
+            case 44: Console.WriteLine("Forty Four"); break;
+            case 45: Console.WriteLine("Forty Five"); break;
+            case 46: Console.WriteLine("Forty Six"); break;
+            case 47: Console.WriteLine("Forty Seven"); break;
+            case 48: Console.WriteLine("Forty Eight"); break;
+            case 49: Console.WriteLine("Forty Nine"); break;
+            case 50: Console.WriteLine("Fifty"); break;
+            case 51: Console.WriteLine("Fifty One"); break;
+            case 52: Console.WriteLine("Fifty Two"); break;
+            case 53: Console.WriteLine("Fifty Three"); break;
+            case 54: Console.WriteLine("Fifty Four"); break;
+            case 55: Console.WriteLine("Fifty Five"); break;
+            case 56: Console.WriteLine("Fifty Six"); break;
+            case 57: Console.WriteLine("Fifty Seven"); break;
+            case 58: Console.WriteLine("Fifty Eight"); break;
+            case 59: Console.WriteLine("Fifty Nine"); break;
+            case 60: Console.WriteLine("Sixty"); break;
+            case 61: Console.WriteLine("Sixty One"); break;
+            case 62: Console.WriteLine("Sixty Two"); break;
+            case 63: Console.WriteLine("Sixty Three"); break;
+            case 64: Console.WriteLine("Sixty Four"); break;
+            case 65: Console.WriteLine("Sixty Five"); break;
+            case 66: Console.WriteLine("Sixty Six"); break;
+            case 67: Console.WriteLine("Sixty Seven"); break;
+            case 68: Console.WriteLine("Sixty Eight"); break;
+            case 69: Console.WriteLine("Sixty Nine"); break;
+            case 70: Console.WriteLine("Seventy"); break;
+            case 71: Console.WriteLine("Seventy One"); break;
+            case 72: Console.WriteLine("Seventy Two"); break;
+            case 73: Console.WriteLine("Seventy Three"); break;
+            case 74: Console.WriteLine("Seventy Four"); break;
+            case 75: Console.WriteLine("Seventy Five"); break;
+            case 76: Console.WriteLine("Seventy Six"); break;
+            case 77: Console.WriteLine("Seventy Seven"); break;
+            case 78: Console.WriteLine("Seventy Eight"); break;
+            case 79: Console.WriteLine("Seventy Nine"); break;
+            case 80: Console.WriteLine("Eighty"); break;
+            case 81: Console.WriteLine("Eighty One"); break;
+            case 82: Console.WriteLine("Eighty Two"); break;
+            case 83: Console.WriteLine("Eighty Three"); break;
+            case 84: Console.WriteLine("Eighty Four"); break;
+            case 85: Console.WriteLine("Eighty Five"); break;
+            case 86: Console.WriteLine("Eighty Six"); break;
+            case 87: Console.WriteLine("Eighty Seven"); break;
+            case 88: Console.WriteLine("Eighty Eight"); break;
+            case 89: Console.WriteLine("Eighty Nine"); break;
+            case 90: Console.WriteLine("Ninety"); break;
+            case 91: Console.WriteLine("Ninety One"); break;
+            case 92: Console.WriteLine("Ninety Two"); break;
+            case 93: Console.WriteLine("Ninety Three"); break;
+            case 94: Console.WriteLine("Ninety Four"); break;
+            case 95: Console.WriteLine("Ninety Five"); break;
+            case 96: Console.WriteLine("Ninety Six"); break;
+            case 97: Console.WriteLine("Ninety Seven"); break;
+            case 98: Console.WriteLine("Ninety Eight"); break;
+            case 99: Console.WriteLine("Ninety Nine"); break;
+            case 100: Console.WriteLine("One Hundred"); break;
+            default: Console.WriteLine("Number too big"); break;
+        }
+    }
+}
